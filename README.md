@@ -6,4 +6,5 @@ Created for the The complete Node.js Developer course
 
 It use data from [www.mapbox.com] and [www.weatherstack.com]
 
+Direct link: [https://leveque-weather-app.herokuapp.com/]
  
